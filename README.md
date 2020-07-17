@@ -4,8 +4,8 @@
 
 <b>I. Singly Linked List<b/>
 
-<b>Operations:<br/></b>
-    1.Append <br/>
+Operations:<br/>
+ 1.Append <br/>
  2.Add At Begin<br/>
  3.Add At End<br/>
  4.Add After<br/>
