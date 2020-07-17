@@ -1,8 +1,8 @@
-## Data Structures And Algorithms Using Python
+# Data Structures And Algorithms Using Python
 
-# Data Structures
+## Data Structures
 
-I. Singly Linked List
+### I. Singly Linked List
 
 Operations:<br/>
  1.Append <br/>
